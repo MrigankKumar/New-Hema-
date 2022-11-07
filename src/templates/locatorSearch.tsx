@@ -71,14 +71,14 @@ export const getHeadConfig: GetHeadConfig<TemplateRenderProps> = ({
         type: "meta",
         attributes: {
           property: "og:description",
-          content: "Dreams",
+          content: "This is Hema locator-location page",
         },
       },
       {
         type: "meta",
         attributes: {
           property: "og:title",
-          content: "Dream",
+          content: "Hema",
         },
       },
       // {
